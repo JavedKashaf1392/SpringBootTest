@@ -14,6 +14,8 @@ public class TestRunner implements CommandLineRunner{
 	@Override
 	public void run(String... args) throws Exception {
 		System.out.println("Hi its First Programe to I am running");
+		System.out.println("Enter mail");
+		System.out.println("Gmail.com");
 		
 	}
 
