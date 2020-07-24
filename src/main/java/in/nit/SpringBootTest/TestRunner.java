@@ -18,7 +18,7 @@ public class TestRunner implements CommandLineRunner{
 		System.out.println("Gmail.com");
 		System.out.println("Javed kashaf is a good boy");
 		System.out.println("Hello");
-		System.out.println("Hello to dean!");
+		System.out.println("Hello to dean");
 	}
 
 
